@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Object VS Type VS Class VS Instance
+title: Object vs Type vs Class vs Instance
 ---
 
 ## Объекты:
