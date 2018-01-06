@@ -85,7 +85,7 @@ False
 >>> MyClass = TestMeta("myclass",tuple(),{})  # создаем экземпляр метакласса
 >>> MyClass
 <class '__main__.myclass'>
->>> type(MyClass)  # получили пользовательсий класс c типом, отличным от type
+>>> type(MyClass)  # получили пользовательский класс c типом, отличным от type
 <class '__main__.TestMeta'>
 >>> type(type(MyClass))
 <class 'type'>
