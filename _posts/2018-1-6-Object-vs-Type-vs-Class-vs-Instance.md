@@ -144,3 +144,5 @@ def __init__(cls, what, bases=None, dict=None):
         """
         ...
 ```
+
+P.S. неплохая статья про метаклассы https://habrahabr.ru/post/145835/
