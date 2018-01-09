@@ -110,11 +110,11 @@ object имеет тип type. По сути, object - корень иерарх
 
 Рассмотрим на примере стандартных классов. Класс bool наследуется от класса int. На картинке наследование объектов показано зеленым, наследование типов - фиолетовым.
 
-![_config.yml]({{ site.baseurl }}/Untitled Diagram1.png)
+![_config.yml]({{ site.baseurl }}/images/Untitled Diagram1.png)
 
 И добавим сюда классы из примеров выше:
 
-![_config.yml]({{ site.baseurl }}/Untitled Diagram2.png)
+![_config.yml]({{ site.baseurl }}/images/Untitled Diagram2.png)
 
 ## Примечание
 Следует отличать встроенную функцию `isinstance()` и оператор `is`:
