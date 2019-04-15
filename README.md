@@ -1,1 +1,1 @@
-http://pythonblog.pro/
+http://djer.dev
