@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gradual Typing in Python
+title: Gradual Typing in Python [video]
 ---
 
 Мое выступление на Krasnodar Python Meetup, рассказываю про статическую типизацию в Python 3
